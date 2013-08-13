@@ -1,0 +1,2 @@
+Get number of messages between members:
+{exp:pm_between_members:count sender="{segment_3}" recipient="{segment_4}"}
